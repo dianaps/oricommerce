@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-16T03:24:31.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="cxXazIfKYlvNAfUnak5j" version="15.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-16T03:31:44.112Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="c6sNJbBVYwX-Gex0fAiP" version="15.9.6" type="github" pages="4">
   <diagram id="dZBfzq255eX16ynX3HKG" name="Inicio">
     <mxGraphModel dx="723" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1U5OvKo1Xpy1pTG3O_Fo" name="Vendedor">
-    <mxGraphModel dx="499" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="579" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3rgCKCJYntX2HCyynCKi-0" />
         <mxCell id="3rgCKCJYntX2HCyynCKi-1" parent="3rgCKCJYntX2HCyynCKi-0" />
@@ -183,7 +183,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mKaYdNZyvW2yRVRLtEzt-19" value="" style="group" vertex="1" connectable="0" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="50" y="40" width="220" height="446" as="geometry" />
+          <mxGeometry x="40" y="40" width="220" height="446" as="geometry" />
         </mxCell>
         <mxCell id="-DI8KRckNQr1ochcv-KP-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=0;" vertex="1" parent="mKaYdNZyvW2yRVRLtEzt-19">
           <mxGeometry width="220" height="446" as="geometry" />
