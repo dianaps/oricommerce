@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T05:19:50.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="-QRrCX6I1eyEJID921QA" version="15.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-17T05:28:41.942Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="mg8uPwKcVGxAcgClXb-1" version="15.9.6" type="github" pages="4">
   <diagram id="dZBfzq255eX16ynX3HKG" name="Inicio">
     <mxGraphModel dx="1240" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1U5OvKo1Xpy1pTG3O_Fo" name="Vendedor">
-    <mxGraphModel dx="1240" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="620" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3rgCKCJYntX2HCyynCKi-0" />
         <mxCell id="3rgCKCJYntX2HCyynCKi-1" parent="3rgCKCJYntX2HCyynCKi-0" />
@@ -745,7 +745,7 @@
         <mxCell id="tx-4NYQxB_yjGaxBmsTo-0" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontFamily=Lucida Console;fontSize=11;fontColor=default;strokeColor=#666E73;strokeWidth=1;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="BqYMkNaHxUII8bvLhljJ-0">
           <mxGeometry width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2LhstfGLlrwkOFhO7jYC-33" value="¿Esta&amp;nbsp;seguro de eliminar este producto?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Lucida Console;fontSize=10;fontColor=none;fontStyle=1" vertex="1" parent="BqYMkNaHxUII8bvLhljJ-0">
+        <mxCell id="2LhstfGLlrwkOFhO7jYC-33" value="¿Está seguro de eliminar este producto?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Lucida Console;fontSize=10;fontColor=none;fontStyle=1" vertex="1" parent="BqYMkNaHxUII8bvLhljJ-0">
           <mxGeometry x="5" y="35" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tx-4NYQxB_yjGaxBmsTo-1" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/juicyfruit_by_salleedesign/128x128/warning.png;rounded=1;shadow=0;fontFamily=Lucida Console;fontSize=11;fontColor=default;strokeColor=#666E73;strokeWidth=1;fillColor=default;" vertex="1" parent="BqYMkNaHxUII8bvLhljJ-0">
@@ -840,11 +840,32 @@
         <mxCell id="BqYMkNaHxUII8bvLhljJ-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/google-material-design-3-0/48/ic_delete_48px-128.png;rounded=1;shadow=1;labelBorderColor=none;sketch=0;fontFamily=Lucida Console;fontSize=11;fontColor=#9933FF;strokeColor=#66B2FF;strokeWidth=0;fillColor=#ffffff;" vertex="1" parent="BqYMkNaHxUII8bvLhljJ-27">
           <mxGeometry x="3.609375" y="3.746212121212121" width="14.007575757575758" height="14.007575757575758" as="geometry" />
         </mxCell>
+        <mxCell id="bd0d6jbuiceOhugTdEXU-53" value="" style="group" vertex="1" connectable="0" parent="3rgCKCJYntX2HCyynCKi-1">
+          <mxGeometry x="870.0000000000002" y="222.99999999999977" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bd0d6jbuiceOhugTdEXU-41" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;fontFamily=Lucida Console;fontSize=11;fontColor=default;strokeColor=#666E73;strokeWidth=1;fillColor=default;labelBackgroundColor=default;" vertex="1" parent="bd0d6jbuiceOhugTdEXU-53">
+          <mxGeometry width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bd0d6jbuiceOhugTdEXU-45" value="Cancelar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=11;spacing=5;rounded=1;labelBackgroundColor=none;fontFamily=Lucida Console;" vertex="1" parent="bd0d6jbuiceOhugTdEXU-53">
+          <mxGeometry x="35" y="70.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="bd0d6jbuiceOhugTdEXU-46" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_facebook-128.png;rounded=1;shadow=0;fontFamily=Lucida Console;fontSize=11;fontColor=default;strokeColor=#666E73;strokeWidth=1;fillColor=default;" vertex="1" parent="bd0d6jbuiceOhugTdEXU-53">
+          <mxGeometry x="79.49999999999977" y="6.000000000000227" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="bd0d6jbuiceOhugTdEXU-47" value="&lt;p style=&quot;font-size: 8px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Link&lt;/p&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.textfield;align=left;strokeColor=#999999;pointerEvents=1;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Lucida Console;fontSize=9;fontColor=#4A4A4A;fillColor=none;gradientColor=none;gradientDirection=radial;fontStyle=1;rounded=0;" vertex="1" parent="bd0d6jbuiceOhugTdEXU-53">
+          <mxGeometry x="11.499999999999773" y="42.00000000000023" width="167" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bd0d6jbuiceOhugTdEXU-49" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Private_Link_Service.svg;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Lucida Console;fontColor=default;strokeColor=#666E73;strokeWidth=1;fillColor=default;" vertex="1" parent="bd0d6jbuiceOhugTdEXU-53">
+          <mxGeometry x="14.299999999999727" y="44.00000000000023" width="20.7" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="bd0d6jbuiceOhugTdEXU-52" value="Aceptar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=11;spacing=5;rounded=1;labelBackgroundColor=none;fontFamily=Lucida Console;" vertex="1" parent="bd0d6jbuiceOhugTdEXU-53">
+          <mxGeometry x="99.99999999999977" y="69.50000000000023" width="60" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="m3mc1tb9KBQb4rh9YxDZ" name="Cliente">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2315" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="S_cXxQPyHXer7_2g-gcS-0" />
         <mxCell id="S_cXxQPyHXer7_2g-gcS-1" parent="S_cXxQPyHXer7_2g-gcS-0" />
@@ -1193,7 +1214,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SV7oKlsDqL3zWKMnCSiy" name="Administrador">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2893" dy="2030" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gWvZ-qlgQPhVfJPoXLwI-0" />
         <mxCell id="gWvZ-qlgQPhVfJPoXLwI-1" parent="gWvZ-qlgQPhVfJPoXLwI-0" />
