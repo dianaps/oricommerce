@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T04:57:00.727Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Nt3Gsl47DRyyXkkd4r_Q" version="15.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-17T05:05:58.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="3pSClz4oyPZQ_W284-ha" version="15.9.6" type="github" pages="4">
   <diagram id="dZBfzq255eX16ynX3HKG" name="Inicio">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1293,23 +1293,25 @@
         <mxCell id="EC2AExI5XkpPKQZdP-Ij-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/heroicons-ui/24/icon-home-128.png;rounded=0;shadow=0;labelBorderColor=none;fontFamily=Lucida Console;fontSize=15;fontColor=#4A4A4A;strokeColor=#113CFC;strokeWidth=0;fillColor=#0FFAF2;gradientColor=none;gradientDirection=radial;" vertex="1" parent="EC2AExI5XkpPKQZdP-Ij-5">
           <mxGeometry x="49.41999999999996" y="10" width="28" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="EC2AExI5XkpPKQZdP-Ij-10" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/general/Dashboard.svg;imageBackground=#7EA6E0;" vertex="1" parent="gWvZ-qlgQPhVfJPoXLwI-1">
-          <mxGeometry x="958" y="330" width="175.29" height="123.74" as="geometry" />
-        </mxCell>
         <mxCell id="EC2AExI5XkpPKQZdP-Ij-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Dashboard-128.png" vertex="1" parent="gWvZ-qlgQPhVfJPoXLwI-1">
-          <mxGeometry x="1053.06" y="205.67" width="36.22" height="36.22" as="geometry" />
+          <mxGeometry x="993.9499999999999" y="300" width="36.22" height="36.22" as="geometry" />
         </mxCell>
         <mxCell id="EC2AExI5XkpPKQZdP-Ij-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/thin-line-icons-for-seo-and-development-1/64/SEO_cogwheels_setting-128.png" vertex="1" parent="gWvZ-qlgQPhVfJPoXLwI-1">
-          <mxGeometry x="1053.11" y="269.83" width="36.17" height="36.17" as="geometry" />
+          <mxGeometry x="1060" y="300.05" width="36.17" height="36.17" as="geometry" />
         </mxCell>
         <mxCell id="EC2AExI5XkpPKQZdP-Ij-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/bitsies/128/Magnifier-128.png" vertex="1" parent="gWvZ-qlgQPhVfJPoXLwI-1">
-          <mxGeometry x="997.06" y="208.78" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="EC2AExI5XkpPKQZdP-Ij-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ionicons/512/icon-eye-128.png" vertex="1" parent="gWvZ-qlgQPhVfJPoXLwI-1">
-          <mxGeometry x="1013.7300000000001" y="280" width="26" height="26" as="geometry" />
+          <mxGeometry x="997.06" y="226.22" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DG2zOAsrxuTX3d1InfWp-0" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22group%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22426%22%20y%3D%22230%22%20width%3D%22174%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22%26lt%3Bp%20style%3D%26quot%3Bfont-size%3A%2010px%26quot%3B%26gt%3B%26amp%3Bnbsp%3B%20%26amp%3Bnbsp%3B%20Contrase%C3%B1a%26lt%3B%2Fp%26gt%3B%22%20style%3D%22strokeWidth%3D1%3Bhtml%3D1%3Bshadow%3D0%3Bdashed%3D0%3Bshape%3Dmxgraph.android.textfield%3Balign%3Dleft%3BstrokeColor%3D%23999999%3BpointerEvents%3D1%3BlabelBackgroundColor%3Dnone%3BlabelBorderColor%3Dnone%3BfontFamily%3DLucida%20Console%3BfontSize%3D10%3BfontColor%3D%234A4A4A%3BfillColor%3Dnone%3BgradientColor%3Dnone%3BgradientDirection%3Dradial%3BfontStyle%3D1%3Brounded%3D0%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20width%3D%22174%22%20height%3D%2220%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22%22%20style%3D%22shape%3Dimage%3Bhtml%3D1%3BverticalAlign%3Dtop%3BverticalLabelPosition%3Dbottom%3BlabelBackgroundColor%3D%23ffffff%3BimageAspect%3D0%3Baspect%3Dfixed%3Bimage%3Dhttps%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Fhawcons%2F32%2F698428-icon-24-key-128.png%3Bshadow%3D1%3BlabelBorderColor%3Dnone%3BfontFamily%3DLucida%20Console%3BfontSize%3D12%3BfontColor%3D%234A4A4A%3BstrokeColor%3Ddefault%3BstrokeWidth%3D0%3BfillColor%3D%233333FF%3BgradientColor%3Dnone%3BgradientDirection%3Dradial%3B%22%20vertex%3D%221%22%20parent%3D%222%22%3E%3CmxGeometry%20y%3D%221%22%20width%3D%2218%22%20height%3D%2218%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/essential-web-3/50/image-picture-nature-view-mountain-128.png;shadow=1;labelBorderColor=none;fontFamily=Lucida Console;fontSize=10;fontColor=#4A4A4A;strokeColor=default;strokeWidth=0;fillColor=none;gradientColor=none;gradientDirection=radial;" vertex="1" parent="gWvZ-qlgQPhVfJPoXLwI-1">
           <mxGeometry x="1013.7300000000001" y="108.08" width="63.83" height="63.83" as="geometry" />
+        </mxCell>
+        <mxCell id="yT33J7hEf3TpJFlsM33x-1" value="" style="sketch=0;dashed=0;connectable=0;html=1;fillColor=#5184F3;strokeColor=none;shape=mxgraph.gcp2.google_ads;part=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;spacingLeft=5;fontColor=#999999;fontSize=12;" vertex="1" parent="gWvZ-qlgQPhVfJPoXLwI-1">
+          <mxGeometry x="1060" y="222.44" width="40" height="37.56" as="geometry">
+            <mxPoint x="5" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yT33J7hEf3TpJFlsM33x-2" value="&lt;font face=&quot;Lucida Console&quot; size=&quot;1&quot;&gt;Estadísticas&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="gWvZ-qlgQPhVfJPoXLwI-1">
+          <mxGeometry x="967.06" y="326.16999999999996" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
