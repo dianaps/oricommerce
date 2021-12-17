@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-17T04:28:09.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="nVv28Xi-ODU-F6OZrnEF" version="15.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-17T04:31:36.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="KWV535Pljh5ReSk1VVLh" version="15.9.6" type="github" pages="4">
   <diagram id="dZBfzq255eX16ynX3HKG" name="Inicio">
     <mxGraphModel dx="1100" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -716,7 +716,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m3mc1tb9KBQb4rh9YxDZ" name="Cliente">
-    <mxGraphModel dx="1927" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE8BA" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFE8BA" math="0" shadow="0">
       <root>
         <mxCell id="S_cXxQPyHXer7_2g-gcS-0" />
         <mxCell id="S_cXxQPyHXer7_2g-gcS-1" parent="S_cXxQPyHXer7_2g-gcS-0" />
@@ -1024,7 +1024,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SV7oKlsDqL3zWKMnCSiy" name="Administrador">
-    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-387" dy="250" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gWvZ-qlgQPhVfJPoXLwI-0" />
         <mxCell id="gWvZ-qlgQPhVfJPoXLwI-1" parent="gWvZ-qlgQPhVfJPoXLwI-0" />
