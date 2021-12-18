@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T04:52:32.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="bFlN3wl8sIwANqSobetH" version="15.9.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-18T04:54:50.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2XVhTLpKU5Ro4YlPSh7E" version="16.0.0" type="github" pages="4">
   <diagram id="dZBfzq255eX16ynX3HKG" name="Inicio">
-    <mxGraphModel dx="2170" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1U5OvKo1Xpy1pTG3O_Fo" name="Vendedor">
-    <mxGraphModel dx="2170" dy="1135" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="955" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3rgCKCJYntX2HCyynCKi-0" />
         <mxCell id="3rgCKCJYntX2HCyynCKi-1" parent="3rgCKCJYntX2HCyynCKi-0" />
@@ -861,11 +861,14 @@
         <mxCell id="bd0d6jbuiceOhugTdEXU-52" value="Aceptar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#33A64C;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=11;spacing=5;rounded=1;labelBackgroundColor=none;fontFamily=Lucida Console;" parent="bd0d6jbuiceOhugTdEXU-53" vertex="1">
           <mxGeometry x="99.99999999999977" y="69.50000000000023" width="60" height="25" as="geometry" />
         </mxCell>
+        <mxCell id="cQN9_D4owQHc4lcHQTX9-0" value="Puede que sea más relajo tener muchas tiendas por persona&lt;br&gt;Google maps solo deja asociar una tienda por usuario" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
+          <mxGeometry x="300" y="20" width="390" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="m3mc1tb9KBQb4rh9YxDZ" name="Cliente">
-    <mxGraphModel dx="2162" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="S_cXxQPyHXer7_2g-gcS-0" />
         <mxCell id="S_cXxQPyHXer7_2g-gcS-1" parent="S_cXxQPyHXer7_2g-gcS-0" />
@@ -1229,7 +1232,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SV7oKlsDqL3zWKMnCSiy" name="Administrador">
-    <mxGraphModel dx="194" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="128" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="gWvZ-qlgQPhVfJPoXLwI-0" />
         <mxCell id="gWvZ-qlgQPhVfJPoXLwI-1" parent="gWvZ-qlgQPhVfJPoXLwI-0" />
@@ -1888,7 +1891,7 @@
           <mxGeometry x="1545.13" y="1835.2800000000002" width="110" height="18.83" as="geometry" />
         </mxCell>
         <mxCell id="inAS5SCg2Jq2IsQNcAwX-37" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#9673a6;fillColor=#e1d5e7;rounded=0;" parent="gWvZ-qlgQPhVfJPoXLwI-1" vertex="1">
-          <mxGeometry x="1228" y="1491" width="220" height="446" as="geometry" />
+          <mxGeometry x="1228" y="1491" width="222" height="449" as="geometry" />
         </mxCell>
         <mxCell id="inAS5SCg2Jq2IsQNcAwX-38" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.statusBar;align=center;fillColor=#000000;strokeColor=#ffffff;fontColor=#ffffff;fontSize=10;fontFamily=Lucida Console;rounded=0;" parent="gWvZ-qlgQPhVfJPoXLwI-1" vertex="1">
           <mxGeometry x="1238" y="1531" width="200" height="15.83" as="geometry" />
