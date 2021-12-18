@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-18T20:36:03.684Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="09jMZYdlQGgucAqHkXWA" version="16.0.0" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-12-18T20:59:08.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yZHqewzUxHvu1kAwXZ8l" version="16.0.0" type="github" pages="5">
   <diagram id="dZBfzq255eX16ynX3HKG" name="Inicio">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,10 +166,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1U5OvKo1Xpy1pTG3O_Fo" name="Vendedor">
-    <mxGraphModel dx="347" dy="186" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="241" dy="129" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="3rgCKCJYntX2HCyynCKi-0" />
         <mxCell id="3rgCKCJYntX2HCyynCKi-1" parent="3rgCKCJYntX2HCyynCKi-0" />
+        <mxCell id="39pewWI8whnEQewOAIFu-0" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBorderColor=none;sketch=0;fontFamily=Lucida Console;fontSize=11;fontColor=#9933FF;strokeColor=#66B2FF;strokeWidth=0;fillColor=#F1F2F4;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
+          <mxGeometry x="428.04" y="700.0000000000001" width="80.89" height="78.09" as="geometry" />
+        </mxCell>
+        <mxCell id="39pewWI8whnEQewOAIFu-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/shopping-elements-6/64/23-Voucher_and_Coupon-128.png;fontSize=8;fontColor=#4D4D4D;fillColor=#99CCFF;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
+          <mxGeometry x="443.49" y="705" width="50" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="BqYMkNaHxUII8bvLhljJ-3" value="" style="group" parent="3rgCKCJYntX2HCyynCKi-1" connectable="0" vertex="1">
           <mxGeometry x="120" y="1010" width="220" height="446" as="geometry" />
         </mxCell>
@@ -1004,6 +1010,9 @@
         <mxCell id="d0DS8q4grtzA4o7orZ71-178" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/heroicons-ui/24/icon-store-128.png;rounded=0;shadow=0;labelBorderColor=none;fontFamily=Lucida Console;fontSize=15;fontColor=#4A4A4A;strokeColor=#113CFC;strokeWidth=0;fillColor=#0FFAF2;gradientColor=none;gradientDirection=radial;fillOpacity=50;" vertex="1" parent="d0DS8q4grtzA4o7orZ71-179">
           <mxGeometry x="59.4199999999999" y="11.5" width="28" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="39pewWI8whnEQewOAIFu-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/user-interface-169/32/bell-128.png;fontSize=9;fontColor=#4D4D4D;fillColor=#99CCFF;" vertex="1" parent="d0DS8q4grtzA4o7orZ71-189">
+          <mxGeometry x="182" y="70" width="28" height="28" as="geometry" />
+        </mxCell>
         <mxCell id="Z7Qlbml7jknOj_wrEylZ-0" value="" style="group" vertex="1" connectable="0" parent="3rgCKCJYntX2HCyynCKi-1">
           <mxGeometry x="320" y="50" width="220" height="446" as="geometry" />
         </mxCell>
@@ -1074,51 +1083,51 @@
           <mxGeometry x="340" y="603" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z7Qlbml7jknOj_wrEylZ-19" value="" style="rounded=1;align=left;fillColor=#F1F2F4;strokeColor=none;html=1;fontColor=#596780;fontSize=12;spacingLeft=26;shadow=1;labelBorderColor=none;fontFamily=Lucida Console;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="488" y="600" width="32" height="33" as="geometry" />
+          <mxGeometry x="479" y="600" width="32" height="33" as="geometry" />
         </mxCell>
         <mxCell id="Z7Qlbml7jknOj_wrEylZ-20" value="" style="shape=mxgraph.mscae.intune.subscription_portal;fillColor=#596780;strokeColor=none;fontColor=#ffffff;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;html=1;spacingLeft=5;rounded=1;shadow=1;labelBorderColor=none;fontFamily=Lucida Console;fontSize=10;" vertex="1" parent="Z7Qlbml7jknOj_wrEylZ-19">
           <mxGeometry y="0.5" width="12" height="12" relative="1" as="geometry">
             <mxPoint x="10" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="39pewWI8whnEQewOAIFu-0" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBorderColor=none;sketch=0;fontFamily=Lucida Console;fontSize=11;fontColor=#9933FF;strokeColor=#66B2FF;strokeWidth=0;fillColor=#F1F2F4;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="423.96" y="710.0000000000001" width="80.89" height="78.09" as="geometry" />
-        </mxCell>
         <mxCell id="39pewWI8whnEQewOAIFu-1" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBorderColor=none;sketch=0;fontFamily=Lucida Console;fontSize=11;fontColor=#9933FF;strokeColor=#66B2FF;strokeWidth=0;fillColor=#F1F2F4;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="330.58" y="710.0000000000001" width="79.44" height="78.09" as="geometry" />
+          <mxGeometry x="334.66" y="700.0000000000001" width="79.44" height="78.09" as="geometry" />
         </mxCell>
-        <mxCell id="39pewWI8whnEQewOAIFu-3" value="&lt;font face=&quot;Lucida Console&quot; size=&quot;1&quot;&gt;Cupones&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="434.41" y="746.4800000000001" width="60" height="30" as="geometry" />
+        <mxCell id="39pewWI8whnEQewOAIFu-3" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 9px;&quot;&gt;Cupones&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
+          <mxGeometry x="443.49000000000007" y="745.8300000000002" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="39pewWI8whnEQewOAIFu-4" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 8px;&quot;&gt;Productos &lt;br style=&quot;font-size: 8px;&quot;&gt;más vistos&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="335.2999999999999" y="755.8300000000002" width="70" height="30" as="geometry" />
+          <mxGeometry x="339.37999999999994" y="745.8300000000002" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="39pewWI8whnEQewOAIFu-6" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBorderColor=none;sketch=0;fontFamily=Lucida Console;fontSize=11;fontColor=#9933FF;strokeColor=#66B2FF;strokeWidth=0;fillColor=#F1F2F4;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="423.96" y="800.0000000000001" width="80.89" height="78.09" as="geometry" />
+          <mxGeometry x="428.04" y="790.0000000000001" width="80.89" height="78.09" as="geometry" />
         </mxCell>
         <mxCell id="39pewWI8whnEQewOAIFu-7" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=1;labelBorderColor=none;sketch=0;fontFamily=Lucida Console;fontSize=11;fontColor=#9933FF;strokeColor=#66B2FF;strokeWidth=0;fillColor=#F1F2F4;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="330.58" y="800.0000000000001" width="79.44" height="78.09" as="geometry" />
+          <mxGeometry x="334.66" y="790.0000000000001" width="79.44" height="78.09" as="geometry" />
         </mxCell>
-        <mxCell id="39pewWI8whnEQewOAIFu-8" value="&lt;font face=&quot;Lucida Console&quot; size=&quot;1&quot;&gt;Publicaciones&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="419.41" y="836.4800000000001" width="90" height="30" as="geometry" />
+        <mxCell id="39pewWI8whnEQewOAIFu-8" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 8px;&quot;&gt;Inventario&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
+          <mxGeometry x="433.49000000000007" y="836.4800000000001" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="39pewWI8whnEQewOAIFu-9" value="&lt;font face=&quot;Lucida Console&quot; size=&quot;1&quot;&gt;Colecciones&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="330.2999999999999" y="836.4800000000001" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="39pewWI8whnEQewOAIFu-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/ecommerce-online-shop-6/24/Online_Market-128.png;labelBorderColor=default;comic=0;sketch=0;fontSize=13;fontColor=default;strokeWidth=2;fillColor=#FCFDFF;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="448.68" y="807.2100000000002" width="35.42" height="35.42" as="geometry" />
-        </mxCell>
-        <mxCell id="39pewWI8whnEQewOAIFu-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/shopping-elements-6/64/12-Retail_Shop-128.png;labelBorderColor=default;comic=0;sketch=0;fontSize=13;fontColor=default;strokeWidth=2;fillColor=#FCFDFF;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="350.4199999999999" y="804.7000000000002" width="39.76" height="39.76" as="geometry" />
+        <mxCell id="39pewWI8whnEQewOAIFu-9" value="&lt;font face=&quot;Lucida Console&quot; style=&quot;font-size: 9px;&quot;&gt;Colecciones&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=9;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
+          <mxGeometry x="334.6599999999999" y="836.4800000000001" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="39pewWI8whnEQewOAIFu-17" value="" style="group" vertex="1" connectable="0" parent="3rgCKCJYntX2HCyynCKi-1">
-          <mxGeometry x="352.34" y="720" width="35.93" height="40" as="geometry" />
+          <mxGeometry x="356.42" y="710" width="35.93" height="40" as="geometry" />
         </mxCell>
         <mxCell id="39pewWI8whnEQewOAIFu-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/48-bubbles/48/06.Tags-128.png;fontSize=14;fontColor=#4D4D4D;fillColor=#99CCFF;" vertex="1" parent="39pewWI8whnEQewOAIFu-17">
           <mxGeometry width="35.930000000000035" height="35.930000000000035" as="geometry" />
         </mxCell>
         <mxCell id="39pewWI8whnEQewOAIFu-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/iconsweets2/40/winners.png;fontSize=14;fontColor=#4D4D4D;fillColor=#99CCFF;imageBackground=none;imageBorder=none;" vertex="1" parent="39pewWI8whnEQewOAIFu-17">
           <mxGeometry x="21.703969363969367" y="25.0862339291314" width="14.22603063603065" height="14.22603063603065" as="geometry" />
+        </mxCell>
+        <mxCell id="39pewWI8whnEQewOAIFu-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/essential-pack-3/24/48.folder-128.png;fontSize=8;fontColor=#4D4D4D;fillColor=#99CCFF;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
+          <mxGeometry x="360.38" y="804.63" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="39pewWI8whnEQewOAIFu-21" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.inventory;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
+          <mxGeometry x="451.57000000000005" y="801.71" width="33.85" height="33.85" as="geometry" />
+        </mxCell>
+        <mxCell id="39pewWI8whnEQewOAIFu-22" value="Desde aquí podrás tener un mejor manejo de tu negocio" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;shadow=0;fontFamily=Lucida Console;fontSize=9;fontColor=none;whiteSpace=wrap;" vertex="1" parent="3rgCKCJYntX2HCyynCKi-1">
+          <mxGeometry x="319.12" y="650" width="205.34" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
