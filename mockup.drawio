@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-20T06:49:52.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="x3l0DiB6nvAsZx-0g76D" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T06:51:00.110Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yWe3vjr3P3uq6BzTYPR1" version="16.0.0" type="github">
   <diagram id="fBwrHvvgtni5-gZdFRJt" name="Vendedor">
     <mxGraphModel dx="723" dy="387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1073,7 +1073,7 @@
           <mxGeometry x="49.75" y="288" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GxRIouRzOAorlrbIbSE5-9" value="" style="group" parent="sOL2gpwOr5AoJWoVxFBa-1" vertex="1" connectable="0">
-          <mxGeometry x="1400" y="550" width="221.17000000000007" height="446" as="geometry" />
+          <mxGeometry x="1440" y="550" width="221.17000000000007" height="446" as="geometry" />
         </mxCell>
         <mxCell id="GxRIouRzOAorlrbIbSE5-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=1;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#6c8ebf;fillColor=#dae8fc;rounded=0;" parent="GxRIouRzOAorlrbIbSE5-9" vertex="1">
           <mxGeometry width="220" height="446" as="geometry" />
